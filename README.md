@@ -19,7 +19,7 @@ ou
 
 ~`back_ac3`  <-- competicao
 
-ex: `back_ac3 top50.txt`
+ex: `./sudoku back_ac3 top50.txt`
 
 
 ### Vídeo:
