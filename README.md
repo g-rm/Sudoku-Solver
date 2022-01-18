@@ -7,7 +7,7 @@ ou
 `pyhon3 <metodo> exemplo.txt`
 
 
-### Métodos:
+## Métodos:
 
 ~`bfs`
 
@@ -19,8 +19,9 @@ ou
 
 ~`back_ac3`  <-- competicao
 
+ex: `back_ac3 top50.txt`
+
 
 ### Vídeo:
-
 https://youtu.be/KPcZXo_5YEU 
 
